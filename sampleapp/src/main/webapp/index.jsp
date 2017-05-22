@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Sreela!! Welcome to Cloud World!!!Edited on repo</h2>
+<h2>Hello Sreela!! Welcome to the Cloud World!!!</h2>
 </body>
 </html>
